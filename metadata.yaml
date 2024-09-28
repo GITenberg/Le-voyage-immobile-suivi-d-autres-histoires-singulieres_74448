@@ -1,5 +1,8 @@
 _repo: Le-voyage-immobile-suivi-d-autres-histoires-singulieres_74448
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74448-h/images/cover.jpg
 creator:
   author:
     agent_name: Renard, Maurice
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Maurice_Renard_(%C3%A9crivain)
     - https://en.wikipedia.org/wiki/Maurice_Renard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74448#Le-voyage-immobile-suivi-d-autres-histoires-singulieres
 gutenberg_issued: '2024-09-20'
 gutenberg_type: Text
 identifiers:
